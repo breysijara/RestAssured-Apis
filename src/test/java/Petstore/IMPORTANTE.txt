@@ -1,0 +1,20 @@
+Ejercicios
+Se proponen varios ejercicios en 3 plataformas diferentes
+WEB
+
+
+WEB SERVICES
+Ir a la web:
+https://www.demoblaze.com/index.html
+Dar de alta un usuario.
+Login y logout con el usuario dado de alta. Agregar una laptop al carrito.
+Comprobar que se agregó al carrito.
+
+WEB SERVICES
+Tomando como referencia lo documentado en este swagger: https://petstore.swagger.io/.
+✓ Agregar una mascota realizando un POST al path /v2/pet.
+Realizar un GET /v2/pet/{petid} para obtener una mascota existente.
+✓ Modificar una mascota existente mediante PUT al path /v2/pet.
+En todos los casos validar:
+Status code esperado.
+Schema del response.
